@@ -1,0 +1,19 @@
+body{
+    background-color: #49B8BC;
+
+}
+h1{
+   font-weight: 700;
+   text-align: center;
+   color: floralwhite;
+}  
+text {
+    color: darkmagenta;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: end;
+    text-overflow: ellipsis;
+}
